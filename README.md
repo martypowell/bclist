@@ -1,10 +1,10 @@
 # bclist
 Goal of this library is to make it super simple to GET data from County Web Services.
 
-# dependencies
+## dependencies
 [jQuery](https://jquery.com/)
 
-#usage
+##usage
 ```javascript
 (function($, BcList) {
     var resultList = new BcList({
