@@ -2,8 +2,8 @@
 Goal of this library is to make it super simple to GET data from County Web Services.
 
 ## dependencies
-[jQuery](https://jquery.com/)
-[Handlebars](http://handlebarsjs.com/)
+* [jQuery](https://jquery.com/)
+* [Handlebars](http://handlebarsjs.com/)
 
 ##usage
 Include jQuery, Handlebars and the bc.list.js whereever you put your js code in your app.
