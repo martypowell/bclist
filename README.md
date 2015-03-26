@@ -5,6 +5,8 @@ Goal of this library is to make it super simple to GET data from County Web Serv
 [jQuery](https://jquery.com/)
 
 ##usage
+Include jQuery and the bc.list.js whereever you put your js code in your app. 
+
 ```javascript
 (function($, BcList) {
     var resultList = new BcList({
