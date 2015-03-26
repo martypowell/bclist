@@ -29,3 +29,6 @@ Include jQuery, Handlebars and the bc.list.js whereever you put your js code in 
 })(jQuery, BcList);
 
 ```
+
+##example usage
+http://www.baltimorecountymd.gov/Agencies/health/petadoption/
