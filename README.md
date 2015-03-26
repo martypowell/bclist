@@ -3,9 +3,17 @@ Goal of this library is to make it super simple to GET data from County Web Serv
 
 ## dependencies
 [jQuery](https://jquery.com/)
+[Handlebars](http://handlebarsjs.com/)
 
 ##usage
-Include jQuery and the bc.list.js whereever you put your js code in your app. 
+Include jQuery, Handlebars and the bc.list.js whereever you put your js code in your app.
+
+```html
+<script src="your/path/to/jquery/jquery.js"></script>
+<script src="your/path/to/jquery/handlebars.js"></script>
+<script src="your/path/to/jquery/bc.list.js"></script>
+
+```
 
 ```javascript
 (function($, BcList) {
