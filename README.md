@@ -18,7 +18,7 @@ Include jQuery, Handlebars and the bc.list.js whereever you put your js code in 
 ```javascript
 (function($, BcList) {
     var resultList = new BcList({
-        containerClass: "results-list", //Selector of class you want to append your results
+        containerClass: "results-list", //Name of the class you want to append your results to, do not include the dot(.)
         source: "webServiceUrl",
         templatePath: "localPathToTemplate"
     });
